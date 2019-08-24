@@ -1,0 +1,3 @@
+C:/Users/Anthony/Desktop/School/Grade 12/Semester 1/AP Physics C-Mr. van Bemmel/Lab 1A/Code/cmake-build-debug/CMakeFiles/Code.dir
+C:/Users/Anthony/Desktop/School/Grade 12/Semester 1/AP Physics C-Mr. van Bemmel/Lab 1A/Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anthony/Desktop/School/Grade 12/Semester 1/AP Physics C-Mr. van Bemmel/Lab 1A/Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
